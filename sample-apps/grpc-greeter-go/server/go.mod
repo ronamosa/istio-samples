@@ -19,6 +19,6 @@ module github.com/GoogleCloudPlatform/istio-samples/sample-apps/grpc-greeter-go/
 go 1.13
 
 require (
-	golang.org/x/net v0.0.0-20191126235420-ef20fe5d7933 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/grpc v1.25.1
 )
